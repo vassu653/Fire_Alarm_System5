@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Fire Alarm System — Project by vassu653</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #f4f4f4; margin: 0; padding: 0; }
+    .container { max-width: 900px; margin: 40px auto; background: #fff; padding: 25px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+    h1 { color: #d62828; }
+    h2 { color: #003049; border-bottom: 2px solid #eee; padding-bottom: 5px; }
+    ul, ol { margin-left: 25px; line-height: 1.6; }
+    .links a { display: inline-block; padding: 8px 12px; background: #219ebc; color: white; text-decoration: none; border-radius: 6px; margin: 5px 10px 0 0; }
+    .links a:hover { background: #126782; }
+    footer { text-align: center; color: #555; margin-top: 30px; font-size: 14px; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🔥 Fire Alarm System</h1>
+    <p><strong>Created by:</strong> vassu653</p>
+
+    <h2>Project Overview</h2>
+    <p>The Fire Alarm System is a safety innovation designed to detect and alert individuals in case of fire, smoke, or gas leaks. It ensures timely evacuation and minimizes property loss through real-time detection and notification mechanisms.</p>
+
+    <h2>Objectives</h2>
+    <ul>
+      <li>Detect fire or smoke quickly and accurately.</li>
+      <li>Alert people through sound and light signals.</li>
+      <li>Ensure safety and reduce damage to life and property.</li>
+      <li>Provide an affordable, efficient fire detection solution.</li>
+    </ul>
+
+    <h2>Tools & Technologies Used</h2>
+    <ul>
+      <li>Microcontroller (Arduino / Raspberry Pi)</li>
+      <li>Smoke Sensor (MQ2 or Flame Sensor)</li>
+      <li>Buzzer and LED Indicators</li>
+      <li>Relay Module and Power Supply Unit</li>
+      <li>Arduino IDE / Python / Embedded C</li>
+    </ul>
+
+    <h2>Methodology</h2>
+    <ol>
+      <li>Analyze requirements and select appropriate sensors.</li>
+      <li>Design and assemble the circuit using a microcontroller.</li>
+      <li>Write and upload the code for detection and alarm activation.</li>
+      <li>Test under various fire and smoke conditions.</li>
+      <li>Deploy and validate the system in real environments.</li>
+    </ol>
+
+    <h2>Output</h2>
+    <ul>
+      <li>The system instantly detects fire or smoke.</li>
+      <li>The buzzer and LED indicators alert occupants.</li>
+      <li>Optional IoT feature sends mobile notifications in emergencies.</li>
+    </ul>
+
+    <h2>Future Applications</h2>
+    <ul>
+      <li>Integration with smart home and industrial automation systems.</li>
+      <li>AI-based fire prediction using environmental data.</li>
+      <li>Cloud-based connection to emergency services.</li>
+      <li>Mobile app for real-time monitoring and alerts.</li>
+    </ul>
+
+    <h2>Project Links</h2>
+    <div class="links">
+      <a href="https://vassu653.github.io/Fire_Alarm_System3/">🌐 Live Project</a>
+      <a href="https://github.com/vassu653/Fire_Alarm_System3">💻 GitHub Repository</a>
+    </div>
+
+    <footer>
+      <p>© 2025 Fire Alarm System | Created by vassu653</p>
+    </footer>
+  </div>
+</body>
+</html>
